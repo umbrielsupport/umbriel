@@ -1,0 +1,12 @@
+= Remove Google Tags 
+= Change header infomation 
+= Paste new header 
+= check through page for network words or logos 
+= paste footer and remove free toolkit 
+
+
+
+Create favicon and change it 
+rename new favicon to this 
+../../cdn.prod.website-files.com/652d0df6e3e8f973371b03ff/65afc52793985947de863016_Favicon-32px.png
+../../cdn.prod.website-files.com/652d0df6e3e8f973371b03ff/65afc4ef022f0cbe17499cd2_Favicon-large.png
