@@ -1,6 +1,14 @@
 = Remove Google Tags 
 = Change header infomation 
-= Paste new header 
+
+Change all netorklondon to umbriel and email subject. 
+delete everything on the end of 
+</svg></div><p class="nav-banner_link">info@umbriel.co.uk</p></a>
+delete <p> client portal <p>
+change logo to /logo_light.svg and change desc 
+delete 'Start Here' 
+change 'Speak to a specialist' to 'Contact Us'
+
 = check through page for network words or logos 
 = paste footer and remove free toolkit 
 
